@@ -1,47 +1,42 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=ANIRUDH&fontSize=50&fontColor=39FF14" width="100%"/>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>// The Architect</h3>
+      <p><b>Focus:</b> Embedded Systems & Drone Tech</p>
+      <p><b>Stack:</b> C • Python • Arduino</p>
+      <br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&width=300&lines=Building+the+future;Optimizing+low-level;Drone+Automation" alt="Typing SVG" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eXN5eGZ4eXF3eXN5eGZ4eXF3eXN5eGZ4eXF3eXN5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaKAzE8U/giphy.gif" width="200px"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Stack
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ANIRUDH&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=c,py,arduino,linux,git,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&text_color=ffffff&icon_color=39FF14" height="150px"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anirudh-dev-code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;Firmware+Developer;C+%2F+C%2B%2B+Specialist;Python+Automation+Expert" alt="Typing SVG" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirudh-dev-code&theme=2021" width="90%"/>
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
   </a>
-</p>
-
----
-
-### 🌌 About Me
-- ⚡ **Focus:** Optimizing low-level code for real-time performance.
-- 🔭 **Current Project:** Building advanced IoT systems with Arduino and Python.
-- 🌱 **Learning:** Real-Time Operating Systems (RTOS) and PCB Design.
-
----
-
-### 🛠️ Hardware & Software Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,git,vscode,mysql,postman,docker,github" />
-</p>
-
----
-
-### 📈 Activity & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=neon&hide_border=true&rank_icon=github&border_radius=10" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-dev-code&layout=compact&theme=neon&hide_border=true&border_radius=10" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-dev-code&theme=neon&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🤝 Connect with the Architect
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirudh-dev-code&theme=neon" width="100%"/>
-</p>
+</div>
