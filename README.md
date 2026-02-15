@@ -1,35 +1,47 @@
-# <p align="center">Hi, I'm Anirudh! <img src="https://media.giphy.com/media/hvRJCLFzcyK6s/giphy.gif" width="30px"></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Embedded+Systems+Engineer;Firmware+Developer;Python+%26+C+Specialist;Arduino+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ANIRUDH&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
----
-
-### 🛠️ My Tech Toolbox
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,arduino,raspberrypi,linux,git,vscode,mysql&perline=4" />
+  <a href="https://github.com/Anirudh-dev-code">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;Firmware+Developer;C+%2F+C%2B%2B+Specialist;Python+Automation+Expert" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### ⚡ Professional Insights
+### 🌌 About Me
+- ⚡ **Focus:** Optimizing low-level code for real-time performance.
+- 🔭 **Current Project:** Building advanced IoT systems with Arduino and Python.
+- 🌱 **Learning:** Real-Time Operating Systems (RTOS) and PCB Design.
+
+---
+
+### 🛠️ Hardware & Software Arsenal
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-dev-code&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,git,vscode,mysql,postman,docker,github" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 📈 Activity & Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=neon&hide_border=true&rank_icon=github&border_radius=10" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-dev-code&layout=compact&theme=neon&hide_border=true&border_radius=10" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-dev-code&theme=neon&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect with the Architect
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirudh-dev-code&theme=neon" width="100%"/>
 </p>
